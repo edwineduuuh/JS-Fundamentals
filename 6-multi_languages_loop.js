@@ -15,9 +15,9 @@ for (const string of strings) {
 
 // or
 
-let i = 0
+// let i = 0
 
-while (i < strings.length) {
-    console.log(strings[i])
-    i++
-}
+// while (i < strings.length) {
+//     console.log(strings[i])
+//     i++
+// }
